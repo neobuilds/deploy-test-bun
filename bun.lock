@@ -1,0 +1,11 @@
+{
+  "lockfileVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "deploy-test-bun",
+      "dependencies": {},
+      "devDependencies": {},
+    },
+  },
+  "packages": {},
+}
